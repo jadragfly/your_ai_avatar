@@ -431,13 +431,6 @@ http://localhost:8084/index.html
 - ✅ VRM 模型文件已内置于模板
 
 ---
-
-## 获取帮助
-
-- 技能位置: `.trae\skills\ai-avatar-generator`
-- 参考项目: `d:\impotent\interesting\vrm\ai-avatar-web`
-- 测试项目: `d:\impotent\interesting\vrm\ai_avatar_web_test3`
-
 ---
 
 *本文档由 AI 生成，如有疑问请检查技能模板源码。*
